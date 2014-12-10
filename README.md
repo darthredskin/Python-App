@@ -1,7 +1,7 @@
 Python-App
 ==========
 
-My first application built in Python
-By: Jared Bardell
-Github:Darthredskin
-Website: jaredbardell.me
+<h2>My first application built in Python</h2>
+<p>By: Jared Bardell</p>
+<p>Github:Darthredskin</p>
+<p>Website: jaredbardell.me</p>
